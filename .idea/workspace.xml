@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ac93859-534b-4925-9dca-d326501b6869" name="Changes" comment="Выполнено домашнее задание по теме &quot;Режимы открытия файлов&quot;">
-      <change afterPath="$PROJECT_DIR$/Module_7_2/module_7_2.py" afterDir="false" />
+    <list default="true" id="0ac93859-534b-4925-9dca-d326501b6869" name="Changes" comment="Выполнено домашнее задание по теме &quot;Позиционирование в файле&quot;.">
+      <change afterPath="$PROJECT_DIR$/Module_7_3/Mother Goose - Monday’s Child.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_7_3/Rudyard Kipling - If.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_7_3/Walt Whitman - O Captain! My Captain!.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_7_3/module_7_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_7_3/test_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_7_3/Результат (несколько файлов).txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,10 +56,16 @@
     "Python.cp1251.executor": "Run",
     "Python.module_7_1.executor": "Run",
     "Python.module_7_2.executor": "Run",
+    "Python.module_7_3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyProjects\pythonLessons_Module_7\Module_7_3" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="module_7_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonLessons_Module_7" />
@@ -108,12 +119,21 @@
       <option name="project" value="LOCAL" />
       <updated>1722836507542</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Выполнено домашнее задание по теме &quot;Позиционирование в файле&quot;.">
+      <option name="closed" value="true" />
+      <created>1722846033764</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722846033764</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Выполнено домашнее задание по теме &quot;Режимы открытия файлов&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнено домашнее задание по теме &quot;Режимы открытия файлов&quot;" />
+    <MESSAGE value="Выполнено домашнее задание по теме &quot;Позиционирование в файле&quot;." />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнено домашнее задание по теме &quot;Позиционирование в файле&quot;." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
