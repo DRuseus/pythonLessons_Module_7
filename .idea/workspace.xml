@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ac93859-534b-4925-9dca-d326501b6869" name="Changes" comment="">
+    <list default="true" id="0ac93859-534b-4925-9dca-d326501b6869" name="Changes" comment="Выполнено домашнее задание по теме &quot;Режимы открытия файлов&quot;">
+      <change afterPath="$PROJECT_DIR$/Module_7_2/module_7_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module_7_1/module_7_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module_7_1/module_7_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,7 @@
   "keyToString": {
     "Python.cp1251.executor": "Run",
     "Python.module_7_1.executor": "Run",
+    "Python.module_7_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -99,7 +100,20 @@
       <option name="presentableId" value="Default" />
       <updated>1722801732962</updated>
     </task>
+    <task id="LOCAL-00001" summary="Выполнено домашнее задание по теме &quot;Режимы открытия файлов&quot;">
+      <option name="closed" value="true" />
+      <created>1722836507542</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722836507542</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Выполнено домашнее задание по теме &quot;Режимы открытия файлов&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнено домашнее задание по теме &quot;Режимы открытия файлов&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -108,6 +122,11 @@
           <url>file://$PROJECT_DIR$/Module_7_1/module_7_1.py</url>
           <line>26</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Module_7_2/module_7_2.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
