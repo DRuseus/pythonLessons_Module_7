@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ac93859-534b-4925-9dca-d326501b6869" name="Changes" comment="Выполнено домашнее задание по теме &quot;Позиционирование в файле&quot;.">
-      <change afterPath="$PROJECT_DIR$/Module_7_3/Mother Goose - Monday’s Child.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module_7_3/Rudyard Kipling - If.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module_7_3/Walt Whitman - O Captain! My Captain!.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module_7_3/module_7_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module_7_3/test_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module_7_3/Результат (несколько файлов).txt" afterDir="false" />
+    <list default="true" id="0ac93859-534b-4925-9dca-d326501b6869" name="Changes" comment="Выполнено домашнее задание по теме &quot;Оператор &quot;with&quot;.">
+      <change afterPath="$PROJECT_DIR$/Module_7_4/module_7_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,16 +46,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.cp1251.executor": "Run",
-    "Python.module_7_1.executor": "Run",
-    "Python.module_7_2.executor": "Run",
-    "Python.module_7_3.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.cp1251.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_4.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\PyProjects\pythonLessons_Module_7\Module_7_3" />
@@ -127,13 +123,22 @@
       <option name="project" value="LOCAL" />
       <updated>1722846033764</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Выполнено домашнее задание по теме &quot;Оператор &quot;with&quot;.">
+      <option name="closed" value="true" />
+      <created>1722861452049</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722861452049</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Выполнено домашнее задание по теме &quot;Режимы открытия файлов&quot;" />
     <MESSAGE value="Выполнено домашнее задание по теме &quot;Позиционирование в файле&quot;." />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнено домашнее задание по теме &quot;Позиционирование в файле&quot;." />
+    <MESSAGE value="Выполнено домашнее задание по теме &quot;Оператор &quot;with&quot;." />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнено домашнее задание по теме &quot;Оператор &quot;with&quot;." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
